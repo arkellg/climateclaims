@@ -1,5 +1,10 @@
-# Analysing Climate Claims
-## From: Friends of Science Society, n.d. *Evidence Over Ideology*. [online] Climate Change 101. Available at: <[Evidence Over Ideology](http://climatechange101.ca/learn-more-about-climate-change/evidence-over-ideology)>.
+---
+title: <Analysing Climate Claims>
+layout: default
+nav_order: 1
+---
+
+## Analyzing claim from: Friends of Science Society, n.d. *Evidence Over Ideology*. [online] Climate Change 101. Available at: <[Evidence Over Ideology](http://climatechange101.ca/learn-more-about-climate-change/evidence-over-ideology)>.
 
 This article, called *Evidence Over Ideology*, attempts to devalue popular ideas belonging to climate scientists. Additionally, it serves to diminish existing concerns regarding how climate change will affect humans and the planet as a whole. Five different ‘ideologies’ are challenged with ‘evidence’ to indicate their unreliability. Only the noteworthy claims will be presented here. 
 
