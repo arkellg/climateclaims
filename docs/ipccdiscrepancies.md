@@ -1,5 +1,5 @@
 ---
-title: <Analysing Climate Claims>
+title: Analyzing IPCC Discrepancies
 layout: default
 nav_order: 1
 ---
